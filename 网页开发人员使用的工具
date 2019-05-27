@@ -1,0 +1,23 @@
+网页开发专业人员使用哪些工具？
+文本编辑器：sublime
+			Brackets
+			Atom
+			Visual Studio Code
+			Dreamweaver
+			Webstorm
+浏览器：Firefox
+		Chrome
+		Opera
+		Safari
+		Internet Explorer
+		Microsoft Edge
+		(老式)IE8-10
+图像编辑器：The GIMP
+			Paint.NET
+			Photoshop
+版本控制系统：Git（管理服务器文件，支持项目团队协作，共享代码与资源）
+FTP工具软件（进行文件管理），Git正在取代FTP，Cyberduck
+											 Fetch
+											 FileZilla
+自动化构建工具：Grunt
+				Gulp(自动完成重复的工作，例如压缩代和运行测试)
